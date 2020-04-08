@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![我](我.jpg)
+![鵝](鵝.jpg)
 
 # Kirby
 
